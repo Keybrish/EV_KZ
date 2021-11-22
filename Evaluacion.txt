@@ -1,2 +1,4 @@
 Keybrish Solange
 Zamora Cox
+Java, c#, python, javascript
+Mysql firebird, postgresql
